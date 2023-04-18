@@ -62,7 +62,7 @@ to bottom, white 0%, #0f0051 100%);
   background-color: #fff;
   color: rgb(16, 15, 15);
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
   padding: 1em;
   top: 0;
